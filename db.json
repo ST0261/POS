@@ -1,0 +1,11 @@
+{
+    "posts": [
+        { "id": 1, "product": "P1", "price": 10000 },
+        { "id": 2, "product": "P2", "price": 20000 },
+        { "id": 3, "product": "P3", "price": 30000 },
+        { "id": 4, "product": "P4", "price": 40000 },
+        { "id": 5, "product": "P5", "price": 30000 },
+        { "id": 6, "product": "P6", "price": 20000 },
+        { "id": 7, "product": "P7", "price": 10000 }
+    ]
+}
