@@ -1,1 +1,1 @@
-json-server --watch db.json --port 80
+json-server --watch db.json --port 80 --host 0.0.0.0
